@@ -10,19 +10,19 @@ La propuesta del sistema de información y administración deportiva SIAD se com
 De antemano se agradece el estudio de este sistema de información y administración deportiva, esperando que sea de su agrado y que cumpla con las expectativas que maneja su institución deportiva.
 
 El sistema de información y administración deportiva SIAD se estructura en cinco (5) módulos que permitirán con la ayuda de las  tecnologías de la información y comunicación apoyar todos los procesos para la realización de un torneo de futbol.
-
-
-
-
+ 
+  
+   
+   
 ESTRUCTURA SISTEMA "SIAD"
 
 
-ADMINISTRACIÓN DE USUARIOS de los diferentes perfiles, como Administradores, Organizadores, Representantes y Jugadores. 
+ADMINISTRACIÓN DE USUARIOS: encargado de la administración, control y auditoría de los diferentes perfiles (Administrador, Organizador, Representante y Jugador). 
+ 
+CONFIGURACION DE CAMPEONATOS: encargado de la creación y administración de los torneos futbolísticos (Creación, Asignación de Árbitros, Planilleros y Canchas).
 
-CONFIGURACION DE CAMPEONATOS, encargado de la creación y administración de los torneos futbolísticos Administración de Campeonatos.
+GESTION DE CAMPEONATOS:  encargado de realizar el desarrollo de cada uno de los torneos, en lo concerniente a la gestión de las actividades que requiera el campeonato (Tablas de posiciones, Resultados, Goleadores, Vallas, Sanciones).
 
-GESTION DE CAMPEONATOS,  donde se realiza el desarrollo de cada uno de los torneos, en lo concerniente con la gestión de las actividades  que requiera el campeonato.
+CERTIFICAIONES: encargado de genear las constancias o certificados de participación y comportamiento.
 
-CERTIFICAIONES, donde se generan constancias de participación.
-
-INFORMES Y ESTADÍSTICAS, donde se encuentran los resultados obtenidos con el transcurrir de  los juegos.
+INFORMES Y ESTADÍSTICAS: encargado de generar las gráficas estadísticas de cada uno de los campeonatos.
