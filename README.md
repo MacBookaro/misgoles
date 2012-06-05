@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Aplicativo web para el manejo de torneos de fútbol, usando KumbiaPHP.
 
 
@@ -24,3 +25,9 @@ GESTION DE CAMPEONATOS,  donde se realiza el desarrollo de cada uno de los torne
 CERTIFICAIONES, donde se generan constancias de participación.
 
 INFORMES Y ESTADÍSTICAS, donde se encuentran los resultados obtenidos con el transcurrir de  los juegos.
+=======
+misgoles
+========
+
+Aplicativo Web que permite la administración de torneos de fútbol aficionado
+>>>>>>> 6d00580451c4f692b7b27163e06aac4d71cc3fa7
